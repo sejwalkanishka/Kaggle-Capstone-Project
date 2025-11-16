@@ -1,5 +1,8 @@
 # Kaggle-Capstone-Project
 It shows the full created study planner AI agent
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/26892076-3ea8-45b5-afaf-59eaa7e530b0" />
+
 # 📘 Study Planner AI — Multi-Agent Learning & Productivity Assistant
 
 A smart, automated, multi-agent system that creates optimized study plans, decomposes tasks, balances workload, and provides weekly analytics — built using the Agent Development Kit.
