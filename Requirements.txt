@@ -1,0 +1,6 @@
+python-dateutil
+pandas
+numpy
+matplotlib
+google-generativeai
+adk
